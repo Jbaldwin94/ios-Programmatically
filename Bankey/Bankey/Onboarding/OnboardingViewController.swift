@@ -14,7 +14,7 @@ class OnboardingViewController: UIViewController {
     let stackView = UIStackView()
     let imageView = UIImageView()
     let label = UILabel()
-
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
